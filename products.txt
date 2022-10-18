@@ -1,0 +1,68 @@
+[
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 1
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 2
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 4
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 5
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 6
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 7
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 8
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 9
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 10
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 11
+  },
+  {
+    "title": "title",
+    "price": 4000,
+    "thumbnail": "url de la foto del productos",
+    "id": 12
+  }
+]
